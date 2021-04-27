@@ -15,6 +15,7 @@ status-website:
   name: Status de todo
   introTitle: "**Hola** aquí está el status de todo lo mio ono"
   introMessage: a e a
+  theme: dark
   navbar:
     - title: Status
       href: /
@@ -24,8 +25,7 @@ status-website:
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 
-status-website:
- theme: dark
+
 
 #el coso pa
 

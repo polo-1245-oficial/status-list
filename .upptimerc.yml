@@ -23,3 +23,13 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+status-website:
+ theme: dark
+
+#el coso pa
+
+ sites:
+  - name: Web principal
+    url: https://polo1245.me
+    icon: https://media.discordapp.net/attachments/828424407373840387/829720123677081621/Polo_1245.png
